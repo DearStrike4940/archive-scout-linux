@@ -1,4 +1,4 @@
-[Download the latest release](https://github.com/DearStrike4940/archive-scout-linux/releases/latest/download/ArchiveScout-Linux-x86_64.tar.gz)
+[Download the latest release](https://github.com/DearStrike4940/archive-scout-linux/releases/download/v1.2.0/ArchiveScout-Linux-x86_64.zip)
 
 
 Archive Scout is a desktop interface for researching public Wayback Machine captures. It can index multiple domains and paths, apply traditional CDX parameters, download archived text pages concurrently, scan them for custom keywords or regular expressions, resume interrupted work through SQLite, and produce plain UTF-8 text reports.
