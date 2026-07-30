@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30527836/README.md)[Upl# Archive Scout for Linux
-
 [Download the latest release](https://github.com/DearStrike4940/archive-scout-linux/releases/latest/download/ArchiveScout-Linux-x86_64.tar.gz)
 
 
