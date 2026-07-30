@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/30527836/README.md)[Upl# Archive Scout for Linux
 
-[Download the latest release](https://github.com/YOUR_GITHUB_USERNAME/archive-scout-linux/releases/latest/download/ArchiveScout-Linux-x86_64.tar.gz)
+[Download the latest release](https://github.com/DearStrike4940/archive-scout-linux/releases/latest/download/ArchiveScout-Linux-x86_64.tar.gz)
 
 
 Archive Scout is a desktop interface for researching public Wayback Machine captures. It can index multiple domains and paths, apply traditional CDX parameters, download archived text pages concurrently, scan them for custom keywords or regular expressions, resume interrupted work through SQLite, and produce plain UTF-8 text reports.
@@ -52,7 +52,7 @@ Download the release tarball, extract it, and run `./install.sh`. It installs un
 
 1. Unzip this repository package.
 2. Show hidden files and confirm `.github/workflows/` is present.
-3. Run `python3 scripts/set_github_username.py YOUR_GITHUB_USERNAME` or replace the placeholder manually.
+3. Run `python3 scripts/set_github_username.py DearStrike4940` or replace the placeholder manually.
 4. Create an empty public repository named `archive-scout-linux`.
 5. Upload every file and folder, including `.github`. Git is preferred because `git add .` includes hidden files.
 6. In repository settings, enable GitHub Actions and set Workflow permissions to **Read and write permissions**.
